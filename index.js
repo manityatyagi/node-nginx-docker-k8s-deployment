@@ -110,5 +110,5 @@ app.post("/v1/qa-ai", async (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+    console.log(`Server is up and running on port ${PORT}`);
 })
